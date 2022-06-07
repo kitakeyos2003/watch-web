@@ -11,7 +11,7 @@
   --text-color: rgba(17, 17, 17, 0.5);
   --text-color-light: rgba(114, 114, 114, 0.589);
   --body-color: rgba(229, 226, 226, 0.829);
-  --container-color: #fff;
+  --container-color: rgb(245, 244, 244);
   --border-color: rgb(255, 255, 255);
 
   --body-font: 'Roboto', sans-serif;
